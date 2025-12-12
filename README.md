@@ -99,6 +99,10 @@ python provincial_ml_pipeline.py
 
 **Output:** All results saved to `outputs/` directory
 
+### Option 3: View current output
+
+1. Open provincial_ml_pipeline.ipynb file
+2. Go to buttom for viewing current notebook output (as I have called all the class functions at the end only)
 ---
 
 ## 📁 Project Structure

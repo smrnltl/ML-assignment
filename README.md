@@ -52,7 +52,7 @@ This project applies machine learning techniques to analyze Nepal's 7 provincial
 
 ### Step 1: Clone or Download Project
 ```bash
-cd path/to/project
+https://github.com/smrnltl/ML-assignment
 ```
 
 ### Step 2: Install Dependencies

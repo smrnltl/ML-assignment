@@ -103,6 +103,7 @@ python provincial_ml_pipeline.py
 
 1. Open provincial_ml_pipeline.ipynb file
 2. Go to buttom for viewing current notebook output (as I have called all the class functions at the end only)
+3. OR, view juypter_notebook_output_screenshots folder
 ---
 
 ## 📁 Project Structure
@@ -114,6 +115,7 @@ project/
 ├── README.md                           # This file
 ├── requirements.txt                    # Python dependencies
 │
+├── jupyter_notebook_output_screenshots #Screenshots of running code output from of juypter notebook (footer section of provincial_ml_pipeline.ipynb file)
 ├── data/
 │   └── National-Accounts.xlsx         # Source data
 │
@@ -299,10 +301,6 @@ pip install xgboost
 %matplotlib inline
 from IPython.display import Image
 ```
-
-### Issue: "MemoryError"
-**Solution:** Close other applications, ensure 8GB+ RAM available
-
 ---
 
 ## 📚 References

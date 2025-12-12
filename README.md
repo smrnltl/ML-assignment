@@ -83,7 +83,7 @@ python -c "import pandas, numpy, sklearn, xgboost, matplotlib; print('All packag
 ### Option 1: Jupyter Notebook 
 
 ```bash
-jupyter notebook provincial_ml_analysis.ipynb
+jupyter notebook provincial_ml_pipeline.ipynb
 ```
 
 **Then:**

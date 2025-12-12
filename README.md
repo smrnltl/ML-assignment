@@ -274,15 +274,6 @@ project/
 
 ---
 
-### To Run Before Submission:
-1. Restart kernel: `Kernel → Restart & Clear Output`
-2. Run all cells: `Kernel → Restart & Run All`
-3. Verify all visualizations display
-4. Check outputs/ directory has 8 files
-5. Save notebook with outputs: `File → Save`
-
----
-
 ## 🐛 Troubleshooting
 
 ### Issue: "ModuleNotFoundError: No module named 'xgboost'"

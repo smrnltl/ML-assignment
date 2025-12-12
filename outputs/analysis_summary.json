@@ -1,0 +1,15 @@
+{
+  "n_provinces": 7,
+  "n_features": 50,
+  "clustering_methods": [
+    "kmeans",
+    "hierarchical"
+  ],
+  "classification_methods": [
+    "Random Forest",
+    "Gradient Boosting",
+    "Ensemble"
+  ],
+  "best_clustering_silhouette": 0.5018954795926617,
+  "best_classification_accuracy": 0.7142857142857143
+}
